@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Amit Bhau Zindabad
         </a>
       </header>
     </div>
