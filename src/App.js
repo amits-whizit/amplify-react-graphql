@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Amit Bhau Zindabad
+          WHIZIT SERVICES
         </a>
       </header>
     </div>
